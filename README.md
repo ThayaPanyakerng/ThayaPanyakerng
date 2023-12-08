@@ -1,4 +1,8 @@
-### Hi there 👋
+## about me:  
+I'm Thaya Panyakerng<br/>
+I’m studying at Rajamangala University of Technology Lanna Chiangmai.<br/>
+Computer Engineering Department.<br/>
+
 
 <!--
 **ThayaPanyakerng/ThayaPanyakerng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
